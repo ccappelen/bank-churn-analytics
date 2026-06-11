@@ -224,3 +224,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 gcp-keyfile.json
+bank-customer-analytics-1da91a028325.json
+.DS_Store
+venv/
